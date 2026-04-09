@@ -66,24 +66,6 @@ Controller → Spring Boot Controllers
 ✔ View Customer Orders  
 
 ---
-FreshMart Project Structure
-
-src/main/java
-│
-├── controller
-├── service
-├── repository
-├── entity
-│
-src/main/webapp/WEB-INF/views
-│
-├── jsp pages
-│
-resources
-│
-└── application.properties
-
----
 
 ## 🛢️ Database Used
 
